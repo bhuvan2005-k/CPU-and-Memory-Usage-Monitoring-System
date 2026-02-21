@@ -24,11 +24,11 @@ This project monitors your computer’s "CPU and memory usage" in real time usin
    Windows:
    ```bash
    g++ processor.cpp -o processor.exe
-  
+`
    Linux/macOS:
    ```bash
    g++ processor.cpp -o processor
-
+```
 2. Run the Python monitor
     Go to the python_monitor folder and run:
     python monitor.py
