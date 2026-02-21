@@ -35,6 +35,6 @@ This project monitors your computer’s "CPU and memory usage" in real time usin
 
 3. You will see:
 
-   Real-time CPU and memory usage graph
-   Alerts from the C++ processor in the console
-   Logged usage data in logs/usage_log.csv
+   Real-time CPU and memory usage graph,
+   Alerts from the C++ processor in the console,
+   Logged usage data in logs/usage_log.csv.
